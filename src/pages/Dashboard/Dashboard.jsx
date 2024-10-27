@@ -7,7 +7,6 @@ import { IoTicketSharp } from "react-icons/io5";
 import { PiExamFill } from "react-icons/pi";
 import { IoHourglassOutline } from "react-icons/io5";
 import PageTitleBar from "../../Components/PageTitleBar";
-import LineChart from "../../Components/LineChart";
 
 const Dashboard = () => {
   return (
